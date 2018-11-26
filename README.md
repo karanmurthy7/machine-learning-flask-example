@@ -1,0 +1,2 @@
+# machine-learning-flask-example
+This project demonstrates how to train and deploy a simple model. Using a pima indians diabetes dataset, I create a model that can predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset. Other applications can use this model through a single route server. This project is composed of two python files: a model training script and the web server.
